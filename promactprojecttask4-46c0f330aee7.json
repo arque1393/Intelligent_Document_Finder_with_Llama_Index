@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "promactprojecttask4",
+  "private_key_id": "46c0f330aee7ca9a6d9b5b683aebba0fc20cc23c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCvR+E6bXZ/rFqj\nZlzBJErt5dzTjJ+R+vxUMvyUgLXlJ5joLsYxLRkgBTiq4yEgPLelO+B0l5VeqqnO\nXcstfU2zEzyT+1d4MZeNRvzl23vhOezkKvgz80g2EFSUtuTA3U19zGJ6ixqcDyWI\naX5ULFfLo8YBN3pUKHWlphu/FYu9LWVV21BnhamOJaPwAOs4B71NfH+YRs7F5ADH\nFLgr5K6wLImSJVPkrjwbl+ZRzW5DIA3q8bL1n+kwA4cYSgD+th1f5twf95hNTLLy\n0RkS1nEXvsbCb9ERzamwOtMyEHLR7fJzlhdEhwEgUPEsd5PVTdcBFDQv76YGYzgr\nPYrVZ3YbAgMBAAECggEAQtJj1mrxsIWr/jwhY05rNFubvpiPIs9sz8qqSRDyhzx7\nyhQ+4XOAbxkee+Nf9xK+rkLv9HLvcmoclzxhn2N0Mi9EumOo+nzpemYUNqrghMIZ\nAfkxq1h1cIr0O8en2LDlgG5hIreSOul5VRJmoz9Obydt7nvQanIMO8ziKgxUPBeF\ngqi0CAcL68w6QAe45GkPOo73i9y+XYEyD9KO/WYRCIJNAJm3cEM2X1MSCmbh40oC\nbOo0wr5ZLOSu4O5qfvR+Clcy2Auzvg5Be/4WH9FGlq8zVvNEkPjzdzs3myv2PIbJ\nwZQ5jUMLTGTbUdW/v9BHLjhR5tQHrsgZ1CtiMdrDvQKBgQD2JMcLsxL/3sFuDRS/\nicwcx+1KVqwHT+vQHGxo5t3tSC8VAVNN0f2dCokxcM1V/hD5kr75t0xZK2g+JUv0\nTrl3VtugHxQ0j32n1B6VpTNP5QS8Sxm+thPIAcv47fuJ9HtDB2Iaq3+kn0AaNFBM\n3b9cLHdBzAPmOGaYmMpzBIml3wKBgQC2TK+PZf7ziD0VlQexcLQ9lOv7iQIq6hx8\ntGKYazV21R2L+skzgrt0mvlUNHE8uCrgKR6zT7P/OBx/uZrLPC149U1FLoPIdy+Q\nTKlnN0a2sq4iZmxrOPMmKTfjQM1ZnGN2Hb3oCeGP2rmTEJccNAZvFUXONCxwgUJb\n3yQv8EBfRQKBgAWCfz4gzQ0TNGs9Obir4fjG9OXUGNe1D0dCS57xhAg6tGsY839r\ncuzf/oAv0TjajhC4GzRFyRy53wR9Gz0lwfsM46+q4m3mxF5MXj7lSsfADaIVYEcn\nljvE5ob09Mt6wIOYl7aXHi1WLz4m66E82Xq7uBOt+Gxf2NQTn3yBnn8rAoGBAIqS\nhk0Rshg6snwqWbu2uTuqbSs5/UzTwq3EjMHhlLVs0FXsX27pbEb52pb4ei82q1jT\nyQNyjZdudrNcSd89Mi+k/4ScFA6ZEq20qHzOFtGfxyBdDQMAOkwCvvne83mvmCdb\n+lRc1nn8QF4bGVKV9WIRIIvbOwCWMPQXDbHnBXelAoGBAMD518HvLtZcalH4OP2p\ng5aH/tQlOkxVdZbTOvN7WRipWS36AQ0NIZ3YQd3uKpVu8/H7H8d9hh7GV+8RLgC8\nm+mF8a/LnMNDGolsiuzdPJHgJaBiuwQhPlJtLaHcW0ruOWbWvab9CXDpQUZnQoyB\n7Azl6CSQnXgFVkoBL3K6oowS\n-----END PRIVATE KEY-----\n",
+  "client_email": "llama-index-drive-retriver@promactprojecttask4.iam.gserviceaccount.com",
+  "client_id": "105329733179047102844",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/llama-index-drive-retriver%40promactprojecttask4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
